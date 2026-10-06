@@ -3,3 +3,4 @@ venv/
 __pycache__/
 vectorstore/*
 !vectorstore/.gitkeep
+.env.example
