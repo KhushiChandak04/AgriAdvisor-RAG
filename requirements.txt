@@ -1,0 +1,15 @@
+streamlit>=1.36.0
+groq>=0.9.0
+python-dotenv>=1.0.1
+sentence-transformers>=2.7.0
+torchvision>=0.15.2
+faiss-cpu>=1.8.0
+rank-bm25>=0.2.2
+numpy>=1.26.0
+PyMuPDF>=1.24.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+langgraph>=0.2.60
+langsmith>=0.3.45

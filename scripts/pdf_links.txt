@@ -1,0 +1,28 @@
+# crop  direct-pdf-link
+
+# ---------- RICE ----------
+rice       http://knowledgebank.irri.org/images/docs/12-Steps-Required-for-Successful-Rice-Production.pdf
+rice       https://www.rarstpt.org/files/rars/package%20of%20practices/Rice.pdf
+
+# ---------- WHEAT ----------
+wheat      https://iiwbr.org.in/wp-content/uploads/2023/08/EB-52-Wheat-Cultivation-in-India-Pocket-Guide.pdf
+
+# ---------- MAIZE ----------
+maize      https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf
+
+# ---------- COTTON ----------
+cotton     https://static.vikaspedia.in/media/files_en/agriculture/crop-production/package-of-practices/practices-for-maharastra.pdf
+cotton     https://static.vikaspedia.in/media/files_en/agriculture/crop-production/package-of-practices/practices-for-karnataka.pdf
+cotton     https://static.vikaspedia.in/media/files_en/agriculture/crop-production/package-of-practices/organic-cotton-manual.pdf
+
+# ---------- SOYBEAN ----------
+soybean    http://icar-nsri.res.in/pdfdoc/ExtensionBulletin2023E_2.pdf
+soybean    https://www.manage.gov.in/publications/eBooks/Climate%20Smart%20Soybean%20Production%20Technologies.pdf
+
+# ---------- SUGARCANE ----------
+sugarcane  https://www.indiansugar.com/Package_of_practices.pdf
+sugarcane  https://www.nitiforstates.gov.in/public-assets/Policy/policy_files/TNG1660A000065.pdf
+sugarcane  https://tnagriculture.in/dashboard/CPG/07_Sugarcane.pdf
+
+# ---------- MAIZE ----------
+maize    https://zarat.kp.gov.pk/assets/uploads/publications/Maize%20Production%20Technology.pdf

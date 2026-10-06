@@ -1,0 +1,6 @@
+rice_package_of_practices.pdf
+wheat_fao_guide.pdf
+maize_cultivation.pdf
+cotton_pop.pdf
+soybean_icar.pdf
+sugarcane_guide.pdf

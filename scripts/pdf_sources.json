@@ -1,0 +1,9 @@
+{
+  "_note": "Landing pages / direct PDF links. Add more per crop. Links were not verified from the build environment.",
+  "rice":      ["https://www.fao.org/3/y4347e/y4347e00.htm"],
+  "wheat":     ["https://www.fao.org/3/y4011e/y4011e00.htm"],
+  "maize":     ["https://www.fao.org/3/y1743e/y1743e00.htm"],
+  "cotton":    ["https://www.fao.org/3/y4095e/y4095e00.htm"],
+  "soybean":   ["https://www.fao.org/3/X6846E/X6846E00.htm"],
+  "sugarcane": []
+}
